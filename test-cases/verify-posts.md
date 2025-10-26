@@ -6,12 +6,12 @@
 
 **Steps:**  
 1. Open `Open Admin Neo`.  
-<img src="screenshots/db1.png" width="300"/>   
+<img src="screenshots/db1.png" width="500"/>   
 2. Connect to the WordPress database.  
 3. Execute SQL query: `SELECT * FROM wp_posts;`  
-<img src="screenshots/db2.png" width="300"/>   
+<img src="screenshots/db2.png" width="500"/>   
 4. Check that the recently created test post appears in the results.  
-<img src="screenshots/db3.png" width="300"/>  
+<img src="screenshots/db3.png" width="500"/>  
 
 **Expected Result:**  
 - Test post is visible in the query results.  

@@ -18,4 +18,4 @@
 **Status:** `Pass`  
 
 **Attachments:**  
-<img src="screenshots/4.png" width="300"/>  
+<img src="screenshots/4.png" width="600"/>  

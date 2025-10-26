@@ -19,4 +19,4 @@ Open main page (contact form visible).
 **Status:** `Pass`  
 
 **Attachments:**  
-<img src="screenshots/1.png" width="300"/>  
+<img src="screenshots/1.png" width="600"/>  

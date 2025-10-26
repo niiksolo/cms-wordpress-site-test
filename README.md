@@ -13,5 +13,4 @@ For learning, I chose **WordPress**, installed the site locally, customized it f
 ---
 
 ## 📸 Screenshots
-<img src="test-cases/screenshots/5.png" width="300"/>  
-<img src="test-cases/screenshots/6.png" width="300"/>  
+<img src="test-cases/screenshots/5.png" width="500"/>    <img src="test-cases/screenshots/6.png" width="500"/>  
